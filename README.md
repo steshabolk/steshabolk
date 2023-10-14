@@ -19,4 +19,9 @@
   <!-- Stats -->
   </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steshabolk&size_weight=0.5&count_weight=0.5&layout=compact&theme=dracula" />
+  </br>
+  <!-- Repo -->
+  </br>
+  <a href="https://github.com/steshabolk/kafka-producer-consumer"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=steshabolk&repo=kafka-producer-consumer&theme=dracula"></a>
+  <a href="https://github.com/steshabolk/wb-price-tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=steshabolk&repo=wb-price-tracker&theme=dracula"></a>
 </div>
