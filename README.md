@@ -12,7 +12,7 @@
   </br>
   <!-- Skills -->
   </br>
-  <img src="https://skillicons.dev/icons?i=java,hibernate,spring,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,hibernate,spring,postgres,docker,git" />
   </br>
   <img src="https://skillicons.dev/icons?i=js,html,css,sass,vue" />
   </br>
